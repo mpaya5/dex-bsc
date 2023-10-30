@@ -1,0 +1,9 @@
+venv
+logs
+test.py
+.env
+blockchain/utils/analyzer.py
+config.py
+*.pyc
+*.lock
+Pipefile
